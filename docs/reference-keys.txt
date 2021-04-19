@@ -1,0 +1,9 @@
+instalação-windows
+miktek
+r
+rstudio
+instalação-linux
+miktek-1
+r-1
+rstudio-1
+utilizando

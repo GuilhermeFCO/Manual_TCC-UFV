@@ -1,0 +1,14 @@
+--- 
+title: "Manual TCC-UFV"
+author: "Guilherme Fernandes Castro de Oliveira"
+date: "`r paste('Última atualização:', format(Sys.Date(), '%d/%m/%Y'))`"
+site: bookdown::bookdown_site
+documentclass: article
+bibliography: [book.bib, packages.bib]
+# biblatexoptions: [natbib=true,style=musuos,citestyle=authoryear,language=brazil,uniquename=false]
+nocite: "@*"
+link-citations: yes
+description: "Este é um Manual para utilização do Padrão TCC-UFV"
+---
+
+# Introdução {-}

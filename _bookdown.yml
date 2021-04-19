@@ -1,0 +1,7 @@
+output_dir: "docs"
+book_filename: "Manual_TCC-UFV"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Capítulo: "
+rmd_subdir: ["text"]    
